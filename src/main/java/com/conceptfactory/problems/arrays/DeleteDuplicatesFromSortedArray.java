@@ -1,4 +1,4 @@
-package com.conceptfactory.problems.misc.arrays;
+package com.conceptfactory.problems.arrays;
 
 public class DeleteDuplicatesFromSortedArray {
 

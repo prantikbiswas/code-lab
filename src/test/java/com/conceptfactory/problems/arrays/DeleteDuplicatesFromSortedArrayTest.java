@@ -1,4 +1,4 @@
-package com.conceptfactory.problems.misc.arrays;
+package com.conceptfactory.problems.arrays;
 
 import org.junit.jupiter.api.Test;
 
